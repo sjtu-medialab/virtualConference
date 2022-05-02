@@ -1,5 +1,7 @@
 # AN ULTRA-LOW BITRATE VIDEO CONFERENCING SYSTEM WITH FLEXIBLE VIRTUAL ACCESS PATTERNS
 
+Code will soon be available. 
+
 ## ABSTRACT
 
 The demand for remote work and online entertainment is surging annually, placing heightened challenge on bandwidth usage and experience quality of applications such as video conferencing. Video codecs in traditional video conferencing systems typically utilize a block-based hybrid coding architecture, which often have sub-optimal rate distortion performance and computational resource consumption in these scenarios. In addition, in low bit rate scenarios due to low bandwidth networks, traditional codecs may lead to a disastrous experience. In this paper, we propose an ultra-low bitrate video conferencing system with flexible virtual access patterns. Conventional video codecs are partially or fully replaced to get ultra-low bitrate while ensuring a smooth communication experience. Furthermore, the three access patterns, face encoding, realistic and virtual avatar, can be driven with either video or audio modality and generate videos in different domain, providing a possible future video conferencing paradigm. The video captured by camera is not necessarily transmitted, protecting privacy of the users. Experiments demonstrate the good rate distortion quality and real-time performance of the proposed system.
